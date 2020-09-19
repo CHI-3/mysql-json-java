@@ -2,7 +2,7 @@
 mysql-json-java
 
 ## Overview
-sample code for json format data from mysql
+sample code for using json format data from mysql
 
 ## Requirement
 - Java 11
@@ -15,7 +15,7 @@ sample code for json format data from mysql
 
 2. Import the project into Eclipse as 'Existing Gradle Project'.
 
-3. Create Docker container with [docker-mysql-java]() and start it.
+3. Create Docker container with [docker-mysql-java](https://github.com/CHI-3/docker-mysql-java) and start it.
 
 4. Change MySQL connection settings in application.yml to your environment.
 
