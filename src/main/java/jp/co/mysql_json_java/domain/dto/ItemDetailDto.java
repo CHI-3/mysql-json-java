@@ -14,6 +14,8 @@ public class ItemDetailDto {
 	private Integer itemId;
 	/** 商品名 */
 	private String itemName;
+	/** 商品金額 */
+	private Integer itemPrice;
 	/** 商品画像 */
 	private String itemImage;
 	/** 優先順位 */

@@ -51,6 +51,9 @@ public class Item implements Serializable {
 	@Column(name="item_name")
 	private String itemName;
 
+	@Column(name="item_price")
+	private Integer itemPrice;
+
 	@Column(name="item_tag")
 	private String itemTag;
 
