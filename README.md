@@ -24,10 +24,10 @@ sample code for using json format data from mysql
 6. Access URL below with your browser or api test tool.
 
 **List of items by category**  
-http://*hostname*:*port number*/item/category/*categoryId*
+http://*{hostname}*:*{port number}*/item/category/*{categoryId}*
 
 **Indivisual item**  
-http://*hostname*:*port number*/item/indivisual/*itemId*
+http://*{hostname}*:*{port number}*/item/indivisual/*{itemId}*
 
 ## Author
 CHI-3
